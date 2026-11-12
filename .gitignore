@@ -1,0 +1,5 @@
+# Compiled Java files (rebuilt by javac)
+*.class
+
+# Personal task data, created automatically when the program runs
+tasks.txt
